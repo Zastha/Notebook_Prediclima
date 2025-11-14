@@ -1,0 +1,17 @@
+Archivo analizado: NR_25077.csv
+Fecha análisis: 2025-11-10 08:31:42.388262
+Total registros generados (rango fechas): 23193
+Fechas sin fila original (completamente faltantes): 8348
+Fechas con al menos una columna faltante (incompletas): 18761
+Porcentaje incompletos (>=1 valor faltante): 80.89%
+Porcentaje registros completos: 19.11%
+
+Faltantes por columna (desde archivo de huecos):
+  - PRECIP: 76 Porcentaje de faltantes: 0.33%
+  - EVAP: 16221 Porcentaje de faltantes: 69.94%
+  - TMAX: 151 Porcentaje de faltantes: 0.65%
+  - TMIN: 151 Porcentaje de faltantes: 0.65%
+
+Notas:
+ - 'Fechas sin fila original' cuenta días sin fila en el CSV original.
+ - 'Faltantes por columna' viene del archivo de huecos (duraciones por columna).
