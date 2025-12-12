@@ -1,0 +1,9 @@
+/data/
+/FBPROPHET/*
+!/FBPROPHET/Entrenamiento_FBProphet.ipynb
+/SARIMAX/*
+!/SARIMAX/Entrenamiento_SARIMAX.ipynb
+/XGBOOST/*
+!/XGBOOST/Entrenamiento_XGBOOST.ipynb
+/TensorFlow/*
+!/TensorFlow/Entrenamiento_TensorFlow.ipynb
