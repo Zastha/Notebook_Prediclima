@@ -301,8 +301,9 @@ Cabe mencionar que no se utilizo regresion lineal simple para estas iteraciones,
 <img width="1005" height="470" alt="image" src="https://github.com/user-attachments/assets/0bd938ef-2fe7-4f73-94ff-dd9d4df2f3cd" />
 
 #### Tensorflow
-<img width="794" height="328" alt="table_metrics_EVAP" src="https://github.com/user-attachments/assets/91a419a0-ee06-46a9-9210-354a24f9264b" />
-<img width="1000" height="400" alt="plot_test_EVAP" src="https://github.com/user-attachments/assets/570d26f5-b2bf-4f15-92db-1fbcf13fe723" />
+<img width="794" height="350" alt="image" src="https://github.com/user-attachments/assets/6c0aa418-b8ca-425d-9278-f8dcb29ee268" />
+<img width="1200" height="500" alt="image" src="https://github.com/user-attachments/assets/030fc347-59bb-4ed5-934f-35ca5c12a296" />
+
 
 #### XGBOOST
 <img width="794" height="273" alt="tabla_metricas" src="https://github.com/user-attachments/assets/c88daa51-0df2-489e-824d-4fdcc49f9e02" />
@@ -325,8 +326,9 @@ Cabe mencionar que no se utilizo regresion lineal simple para estas iteraciones,
 
 
 #### Tensorflow
-<img width="794" height="328" alt="table_metrics_PRECIP" src="https://github.com/user-attachments/assets/c8fca9f6-25ae-40cd-b7d1-7464ac45b085" />
-<img width="1000" height="400" alt="plot_test_PRECIP" src="https://github.com/user-attachments/assets/55beb3e1-f268-4787-8d55-fe8a7fd7eeb7" />
+<img width="1200" height="500" alt="image" src="https://github.com/user-attachments/assets/e1b4d123-f85a-45e2-8df7-ba85c1a49601" />
+<img width="794" height="350" alt="image" src="https://github.com/user-attachments/assets/482c60a1-47e8-4395-baa3-c874b670389d" />
+
 
 
 #### XGBOOST
@@ -352,8 +354,10 @@ Cabe mencionar que no se utilizo regresion lineal simple para estas iteraciones,
 
 
 #### Tensorflow
-<img width="794" height="328" alt="table_metrics_TMAX" src="https://github.com/user-attachments/assets/5161c3ac-e704-41e3-9763-f5b7994bfc6a" />
-<img width="1000" height="400" alt="plot_test_TMAX" src="https://github.com/user-attachments/assets/e41d9da2-6a5a-41df-a1a5-da58f904d4ac" />
+<img width="794" height="350" alt="image" src="https://github.com/user-attachments/assets/a2d3b3bf-95e5-4c5c-b216-29880f6f2bf0" />
+
+<img width="1200" height="500" alt="image" src="https://github.com/user-attachments/assets/3091450c-9b9b-4069-bfcf-5c2bc83bfa35" />
+
 
 
 
@@ -380,8 +384,10 @@ Cabe mencionar que no se utilizo regresion lineal simple para estas iteraciones,
 
 
 #### Tensorflow
-<img width="794" height="328" alt="table_metrics_TMIN" src="https://github.com/user-attachments/assets/7f5fe487-e105-4cc4-8891-ef959a936fa9" />
-<img width="1000" height="400" alt="plot_test_TMIN" src="https://github.com/user-attachments/assets/fc8390ab-6a59-4447-a377-a7de17a625d4" />
+<img width="794" height="350" alt="image" src="https://github.com/user-attachments/assets/4bc60f04-6d51-4c8b-9117-06a61ac1fc5f" />
+
+<img width="1200" height="500" alt="image" src="https://github.com/user-attachments/assets/55e8584e-3c12-43ba-b497-f27341b5421f" />
+
 
 
 
